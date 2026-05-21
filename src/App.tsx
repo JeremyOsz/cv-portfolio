@@ -382,6 +382,7 @@ function VariationContact() {
         <a href="mailto:j.osztreicher@gmail.com">Email</a>
         <a href="https://github.com/Jeremyosz" target="_blank" rel="noreferrer">GitHub</a>
         <a href="https://www.linkedin.com/in/jeremy-osztreicher-72236a125/" target="_blank" rel="noreferrer">LinkedIn</a>
+        <a href="https://www.instagram.com/jeremyosz/" target="_blank" rel="noreferrer">Instagram</a>
       </div>
     </section>
   )
@@ -958,6 +959,14 @@ function App() {
                     className="rounded-full border border-border/70 bg-card/80 px-3 py-1.5 text-foreground hover:border-primary/60"
                   >
                     LinkedIn
+                  </a>
+                  <a
+                    href="https://www.instagram.com/jeremyosz/"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="rounded-full border border-border/70 bg-card/80 px-3 py-1.5 text-foreground hover:border-primary/60"
+                  >
+                    Instagram
                   </a>
                   <a
                     href="mailto:j.osztreicher@gmail.com"
